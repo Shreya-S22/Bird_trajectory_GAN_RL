@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+Bird_gan_envi/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# System files (macOS/Windows)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Environment variables and secrets
+.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Streamlit-specific cache (optional)
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# Output folders generated at runtime
+hotspot_analysis/
+patrol_route_analysis/
+visualizations/
+build/
+dist/
+*.spec
