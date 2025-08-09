@@ -36,10 +36,3 @@ desktop.ini
 .streamlit/config.toml
 .streamlit/credentials.toml
 
-# Output folders generated at runtime
-hotspot_analysis/
-patrol_route_analysis/
-visualizations/
-build/
-dist/
-*.spec
